@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Dimensions for places xml file -->
+    <dimen name="places_margin_left">16dp</dimen>
+    <dimen name="places_margin_right">16dp</dimen>
+
+    <!--Dimensions for list_places xml file -->
+    <dimen name="image_height">56dp</dimen>
+    <dimen name="image_width">56dp</dimen>
+    <dimen name="image_margin">16dp</dimen>
+    <dimen name="place_name_text_size">16sp</dimen>
+    <dimen name="place_name_margin">4dp</dimen>
+    <dimen name="place_detail_text_size">16sp</dimen>
+    <dimen name="place_detail_margin">4dp</dimen>
+
+</resources>

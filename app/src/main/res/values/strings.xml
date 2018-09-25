@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">SiliconValleyTours</string>
+
+    <string name="name_text">Name of place</string>
+
+    <string name="details_text">Details of place</string>
+
+    <string name="category_1">Cities</string>
+    <string name="category_2">Shopping</string>
+    <string name="category_3">Attractions</string>
+    <string name="category_4">Restaurants</string>
+
+    <string name="attraction_name_1">Castle Rock State Park</string>
+    <string name="attraction_name_2">California Great America</string>
+    <string name="attraction_name_3">The Tech Museum of Innovation</string>
+    <string name="attraction_name_4">Google android lawn statues.</string>
+    <string name="attraction_name_5">Shoreline Lake Boathouse</string>
+    <string name="attraction_name_6">Sunol Regional Wilderness</string>
+
+    <string name="attraction_details_1">Steep canyons with unusual rock formations,popular rock climbing area.</string>
+    <string name="attraction_details_2">100-acre amusement park located in Santa Clara.</string>
+    <string name="attraction_details_3">Premier museums of science and technology in the United States.</string>
+    <string name="attraction_details_4">Series of large foam statues based on the code names of Google Android mobile .</string>
+    <string name="attraction_details_5">Scenic spot for bird-watching, biking, running and other recreational activities.</string>
+    <string name="attraction_details_6">A stunning park of rugged peaks, beautiful vistas and a remote wilderness feel.</string>
+
+    <string name="cities_name_1">Cupertino</string>
+    <string name="cities_name_2">Santa Clara</string>
+    <string name="cities_name_3">Sunnyvale</string>
+    <string name="cities_name_4">Mountain View</string>
+    <string name="cities_name_5">San Jose</string>
+    <string name="cities_name_6">Palo Alto</string>
+
+
+    <string name="restaurants_name_1">Hobee</string>
+    <string name="restaurants_name_3">The Oxford</string>
+    <string name="restaurants_name_4">Merit</string>
+    <string name="restaurants_name_2">Roots And Rye</string>
+    <string name="restaurants_name_5">Le Papillo</string>
+
+    <string name="restaurants_details_1">Local chain serving health-minded American food.</string>
+    <string name="restaurants_details_2">Industrial-chic restaurant and bar.</string>
+    <string name="restaurants_details_3">California-influenced British food and cocktails.</string>
+    <string name="restaurants_details_4">Vegetarian and vegan dishes.</string>
+    <string name="restaurants_details_5">Upscale eatery and French menu with more than 500 wines.</string>
+
+
+    <string name="shopping_name_1">Westfield Valley Fair</string>
+    <string name="shopping_name_3">Pacific Commons</string>
+    <string name="shopping_name_4">Pruneyard Shopping Center</string>
+    <string name="shopping_name_2">Hillsdale Shopping Center</string>
+    <string name="shopping_name_5">Antique Stores</string>
+
+    <string name="shopping_details_1">An upscale shopping mall in San Jose, California.</string>
+    <string name="shopping_details_2">Large interconnected retail complex with big-box stores, smaller shops, casual dining and services.</string>
+    <string name="shopping_details_3">250,000 square foot open-air shopping center located in Campbell.</string>
+    <string name="shopping_details_4">Shopping mall in San Mateo, California.</string>
+    <string name="shopping_details_5">Several antique stores are clustered on San Carlos Street in San Jose and in the Niles neighborhood in Fremont.</string>
+
+</resources>

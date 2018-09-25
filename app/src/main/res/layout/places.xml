@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/places"
+    android:name="com.android.siliconvalleytourism.CitiesFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="@dimen/places_margin_left"
+    android:layout_marginRight="@dimen/places_margin_right"
+    app:layoutManager="LinearLayoutManager"
+    tools:context="com.android.siliconvalleytours.CitiesFragment"
+    tools:listitem="@layout/list_places" />

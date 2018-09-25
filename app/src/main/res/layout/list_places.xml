@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/imageId"
+        android:layout_width="@dimen/image_width"
+        android:layout_height="@dimen/image_height"
+        android:layout_margin="@dimen/image_margin"
+        android:background="@drawable/ic_launcher_background" />
+
+    <RelativeLayout
+        android:id="@+id/place_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_margin="@dimen/place_name_margin"
+            android:textAppearance="?attr/textAppearanceListItem"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/place_name_text_size"
+            android:textStyle="bold"
+            android:textAllCaps="true"
+            tools:text="@string/name_text" />
+
+        <TextView
+            android:id="@+id/details"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/name"
+            android:layout_margin="@dimen/place_detail_margin"
+            android:scrollbars="vertical"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/place_detail_text_size"
+            tools:text="@string/details_text" />
+
+    </RelativeLayout>
+
+</LinearLayout>
